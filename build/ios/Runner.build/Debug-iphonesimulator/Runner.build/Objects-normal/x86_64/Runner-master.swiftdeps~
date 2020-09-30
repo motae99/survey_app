@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "66a1c5000ee4d67822b325bfde02e654"
+build_time: [1601136458, 703744000]
+inputs:
+  "/Users/motae/Desktop/flutter_app/ios/Runner/AppDelegate.swift": [1600146170, 0]

@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/motae/Desktop/flutter_app/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/motae/Desktop/flutter_app/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/motae/Desktop/flutter_app/ios/Flutter/Flutter.framework/Modules/module.modulemap \
+  /Users/motae/Desktop/flutter_app/ios/Flutter/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/motae/Desktop/flutter_app/ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/motae/Desktop/flutter_app/ios/Flutter/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/motae/Desktop/flutter_app/ios/Flutter/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/motae/Desktop/flutter_app/ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/motae/Desktop/flutter_app/ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/motae/Desktop/flutter_app/ios/Flutter/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/motae/Desktop/flutter_app/ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/motae/Desktop/flutter_app/ios/Flutter/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/motae/Desktop/flutter_app/ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/motae/Desktop/flutter_app/ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/motae/Desktop/flutter_app/ios/Flutter/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/motae/Desktop/flutter_app/ios/Flutter/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/motae/Desktop/flutter_app/ios/Flutter/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/motae/Desktop/flutter_app/ios/Flutter/Flutter.framework/Headers/Flutter.h
