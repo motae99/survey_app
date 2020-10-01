@@ -5,7 +5,7 @@ import 'package:survey_app/common/AppColors.dart';
 import 'package:survey_app/local_database/moor_database.dart';
 import 'package:survey_app/screens/download_form_screen.dart';
 import 'package:survey_app/screens/home_screen/component/HomeScreenCard.dart';
-import '../saved_surveys_screen/saved_surveys_screen.dart';
+import '../../saved_surveys_screen/saved_surveys_screen.dart';
 import 'package:survey_app/screens/survey_screen/SurveyScreen.dart';
 import 'package:easy_localization/easy_localization.dart';
 
